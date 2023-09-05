@@ -349,8 +349,6 @@ html {
 .footer__social-list-item {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
-  width: 240px;
   height: 48px;
 }
 
