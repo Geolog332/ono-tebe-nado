@@ -272,6 +272,7 @@ html {
   padding-right: 50px;
   padding-left: 50px;
   font-size: 20px;
+  line-height: normal;
 }
 .about__column {
   display: flex;
@@ -314,7 +315,7 @@ html {
   display: flex;
   flex-direction: column;
   align-items:flex-end;
-  gap: 20px;
+  gap: 30px;
   margin-top: 100px;
   margin-bottom: 5px;
 }
