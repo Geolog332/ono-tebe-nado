@@ -48,7 +48,6 @@ html {
 .contact {
   display: flex;
   flex-direction: column;
-  flex-wrap: nowrap;
   justify-self: end;
   max-width: 240px;
   font-style: normal;
@@ -63,6 +62,7 @@ html {
 }
 
 .adress {
+  white-space: nowrap;
   text-decoration: none;
 }
 
